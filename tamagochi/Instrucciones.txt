@@ -1,0 +1,5 @@
+Compilacion
+javac -cp j3dcore.jar;j3dutils.jar;vecmath.jar Tamagochi.java LeeRed.java Microchat.java Mensaje.java Icono.java Body.java Red.java IncomingReader.java
+
+Ejecucion (ejecutar primero el servidor)
+java -cp .;j3dcore.jar;j3dutils.jar;vecmath.jar Tamagochi

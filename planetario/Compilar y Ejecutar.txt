@@ -1,0 +1,6 @@
+Compilar: 
+javac -cp .;j3dcore.jar;j3dutils.jar;vecmath.jar SolarSisN.java
+
+
+Ejecutar: 
+java -cp .;j3dcore.jar;j3dutils.jar;vecmath.jar SolarSisN
